@@ -7,3 +7,7 @@
     conda activate 10ae
 3. Install dependencies: pip install -r requirements.txt
 4. Start working on notebooks inside notebooks/ directory
+
+## Live Dashboard
+Access the deployed Streamlit app here: https://solar-challenge-week1-6voqgbwdiferxge8zc83fv.streamlit.app/ 
+
