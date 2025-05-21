@@ -4,4 +4,5 @@ matplotlib
 seaborn
 jupyter
 scikit-learn
+#Streamlit for dashboard development
 streamlit
